@@ -1,0 +1,1 @@
+Doc ghi du lieu voi BufferedInputStream va BufferedOutputStream
